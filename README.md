@@ -14,4 +14,6 @@ Los diferentes problemas tendrán comentarios en los que se debe indicar:
 
 *Comentarios de uso*
 
+[PBL de jordi Guim](http://pbl.guim.net)
+
 
