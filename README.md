@@ -7,7 +7,11 @@ Problemas para PBL
 3. Bachillerato
 4. Ciclos Formativos
 Los diferentes problemas tendrán comentarios en los que se debe indicar:
+
 *Ámbito de aplicación*
+
 *Dificultad*
+
 *Comentarios de uso*
+
 
