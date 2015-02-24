@@ -1,7 +1,7 @@
 # PBL
 Problemas para PBL
 ##Conjunto de problemas para usar con la Metodología PBL##
-##Dirigido a las aulas de##
+###Dirigido a las aulas de###
 1. Primaria
 2. ESO
 3. Bachillerato
