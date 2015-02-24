@@ -13,7 +13,9 @@ Los diferentes problemas tendrán comentarios en los que se debe indicar:
 *Dificultad*
 
 *Comentarios de uso*
-
+#prova
 [PBL de jordi Guim](http://pbl.guim.net)
 
+
+[anar a prova](https://github.com/jordiguim/PBL/edit/master/README.md/#prova)
 
